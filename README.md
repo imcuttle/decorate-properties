@@ -32,7 +32,9 @@ decorate(Person, {
     age: observable,
     showAge: observable,
     labelText: computed,
-    setAge: action
+    setAge: action,
+    // array of decorator function
+    foo: [computed, observable]
 })
 
 // or
