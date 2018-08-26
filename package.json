@@ -1,6 +1,6 @@
 {
   "name": "decorate-properties",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "The untity for decorating class properties more official.",
   "author": "imcuttle",
